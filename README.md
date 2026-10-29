@@ -59,7 +59,7 @@ wdq0921/
 | --- | --- | --- | --- |
 | **DeskPanel** | Windows 桌面右侧常驻侧栏：硬件监控、常用软件、服务开关、开机启动项（含 Store 应用），带可视化设置 | C# / WPF / .NET 8 / Windows API | [源码](https://github.com/dzy1145/DeskPanel) · [下载 v1.4.0](https://github.com/dzy1145/DeskPanel/releases) |
 | **早八** | 纯本地安卓课表：周课表按周次过滤、多学期、节次表、深浅色主题；教务 .xls / JSON 导入 + 269 校教务抓取 | Vue 3 / uni-app / SQLite | [源码](https://github.com/dzy1145/zaoba) · [下载 v1.1.0](https://github.com/dzy1145/zaoba/releases) |
-| **简记** | 本地记账 Android App：按天列账、月度统计、趋势折线、分类占比；账目不上云 | Vue 3 / uni-app / Canvas 2D | [源码](https://github.com/dzy1145/jianji) · [下载 v1.4.8](https://github.com/dzy1145/jianji/releases) |
+| **简记** | 本地记账 Android App：按天列账、月度统计、趋势折线、分类占比；账目不上云 | Vue 3 / uni-app / Canvas 2D | [源码](https://github.com/dzy1145/jianji) · [下载 v1.4.9](https://github.com/dzy1145/jianji/releases) |
 
 首屏统计也是从这三个项目推出来的：**3** 个公开项目、**2** 个平台（Windows / Android）、**0** 个云端依赖。
 
